@@ -42,4 +42,4 @@ It also provides:
 - heatmap overlays (traffic / kill zones / death zones)
 
 ## Hosted App
-[Add your deployed URL here]
+https://lila-apm-tool-hqgrg3e9jguynejwacqvau.streamlit.app/
